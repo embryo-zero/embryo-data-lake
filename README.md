@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Data Lake
+
+**Embryo Data Lake** is Embryo-Zero's fork of [delta](https://github.com/delta-io/delta), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <img src="docs/src/assets/delta-lake-logo-light.svg" width="200" alt="Delta Lake Logo"></img>
 
 [![Test](https://github.com/delta-io/delta/actions/workflows/test.yaml/badge.svg)](https://github.com/delta-io/delta/actions/workflows/test.yaml)
